@@ -1,0 +1,220 @@
+DiGraph with 582 nodes and 152 edges
+Average Node Degree: 0.5223367697594502
+Density: 0.0004495152923919537
+Clustering Coefficient: 0.004534111364008272
+Assortativity Coefficient: 0.05026763635080483
+Number of Strongly Connected Components in subgraph: 582
+Node 9203206: PageRank Centrality = 0.01017006640641057
+Node 9203203: PageRank Centrality = 0.009321647339719982
+Node 9203220: PageRank Centrality = 0.008742291338364187
+Node 9206242: PageRank Centrality = 0.007765645103754418
+Node 9204220: PageRank Centrality = 0.006678015316540438
+Node 9203203: Katz Centrality = 0.08485118089364314
+Node 9203201: Katz Centrality = 0.072787031951419
+Node 9203206: Katz Centrality = 0.07081655429085572
+Node 9203220: Katz Centrality = 0.06112502130726899
+Node 9205230: Katz Centrality = 0.06072288300919485
+
+
+
+
+DiGraph with 2117 nodes and 2862 edges
+Average Node Degree: 2.703826169107227
+Density: 0.0006389003235130499
+Clustering Coefficient: 0.04336998262261124
+Assortativity Coefficient: 0.10394235542783097
+Number of Strongly Connected Components in subgraph: 2114
+Node 9203203: PageRank Centrality = 0.007069899066336173
+Node 9206203: PageRank Centrality = 0.00677613487364206
+Node 9206242: PageRank Centrality = 0.005256383671882412
+Node 9203206: PageRank Centrality = 0.004871649451048701
+Node 9207219: PageRank Centrality = 0.004804179820672263
+Node 9203203: Katz Centrality = 0.12713256004417597
+Node 9211256: Katz Centrality = 0.09381342517186812
+Node 9211260: Katz Centrality = 0.08482574312819421
+Node 9203201: Katz Centrality = 0.07949784521270434
+Node 9206203: Katz Centrality = 0.07695612873075336
+
+
+
+
+DiGraph with 4421 nodes and 11379 edges
+Average Node Degree: 5.1477041393349925
+Density: 0.0005823194727754516
+Clustering Coefficient: 0.07352281648626283
+Assortativity Coefficient: 0.053890446131428016
+Number of Strongly Connected Components in subgraph: 4413
+Node 9203203: PageRank Centrality = 0.006030248748891542
+Node 9206203: PageRank Centrality = 0.005558906035076952
+Node 9303255: PageRank Centrality = 0.004649619701755785
+Node 9310316: PageRank Centrality = 0.003786581129370499
+Node 9206242: PageRank Centrality = 0.0036866229546638003
+Node 9203203: Katz Centrality = 0.1322978506833075
+Node 9209232: Katz Centrality = 0.12718307263540446
+Node 9210235: Katz Centrality = 0.11048026852206379
+Node 9207214: Katz Centrality = 0.11030512348662239
+Node 9211256: Katz Centrality = 0.10941072348508417
+
+
+
+
+DiGraph with 7276 nodes and 29808 edges
+Average Node Degree: 8.193512919186366
+Density: 0.0005631280356829118
+Clustering Coefficient: 0.09937934645874626
+Assortativity Coefficient: 0.019588471540219785
+Number of Strongly Connected Components in subgraph: 7263
+Node 9303255: PageRank Centrality = 0.005004603281382678
+Node 9206203: PageRank Centrality = 0.004701039864122981
+Node 9203203: PageRank Centrality = 0.004652513953620811
+Node 9310316: PageRank Centrality = 0.003986695124831385
+Node 9208254: PageRank Centrality = 0.0037952186721662883
+Node 9209232: Katz Centrality = 0.15187325525926235
+Node 9207214: Katz Centrality = 0.14822326715099618
+Node 9210235: Katz Centrality = 0.14489271574558485
+Node 9304225: Katz Centrality = 0.13150503995709031
+Node 9203203: Katz Centrality = 0.1301474209410297
+
+
+
+
+DiGraph with 10481 nodes and 58927 edges
+Average Node Degree: 11.244537734948954
+Density: 0.0005364760369727555
+Clustering Coefficient: 0.11684083341225834
+Assortativity Coefficient: 0.02106262721267994
+Number of Strongly Connected Components in subgraph: 10459
+Node 9303255: PageRank Centrality = 0.00540863439055249
+Node 9206203: PageRank Centrality = 0.003967716152376803
+Node 9310316: PageRank Centrality = 0.003930257864053887
+Node 9208254: PageRank Centrality = 0.003663937315054564
+Node 9203203: PageRank Centrality = 0.0035626513134853583
+Node 9207214: Katz Centrality = 0.1933140413061202
+Node 9304225: Katz Centrality = 0.16351564640088934
+Node 9209232: Katz Centrality = 0.15107658694336426
+Node 9210235: Katz Centrality = 0.14730206071735882
+Node 9308246: Katz Centrality = 0.13509481918092536
+
+
+
+
+DiGraph with 14013 nodes and 98307 edges
+Average Node Degree: 14.03082851637765
+Density: 0.0005006718711239527
+Clustering Coefficient: 0.12755670708054817
+Assortativity Coefficient: 0.007795229789006839
+Number of Strongly Connected Components in subgraph: 13964
+Node 9303255: PageRank Centrality = 0.005164429880687175
+Node 9310316: PageRank Centrality = 0.003689091512737507
+Node 9206203: PageRank Centrality = 0.0034643939563475125
+Node 9208254: PageRank Centrality = 0.0034076231867542247
+Node 9209205: PageRank Centrality = 0.0030367872794729934
+Node 9207214: Katz Centrality = 0.20797839968185378
+Node 9304225: Katz Centrality = 0.17350878714599932
+Node 9308246: Katz Centrality = 0.14307431620057293
+Node 9209232: Katz Centrality = 0.13857820491137857
+Node 9210235: Katz Centrality = 0.13360755800908602
+
+
+
+
+DiGraph with 17736 nodes and 142934 edges
+Average Node Degree: 16.117952187640956
+Density: 0.00045441083134031455
+Clustering Coefficient: 0.13309292099711645
+Assortativity Coefficient: 0.006072038653790649
+Number of Strongly Connected Components in subgraph: 17622
+Node 9303255: PageRank Centrality = 0.004744404479560486
+Node 9310316: PageRank Centrality = 0.003413925613798526
+Node 9206203: PageRank Centrality = 0.0031067915162022322
+Node 9208254: PageRank Centrality = 0.003086295226324139
+Node 9209205: PageRank Centrality = 0.0030318882055148494
+Node 9207214: Katz Centrality = 0.22492264956898098
+Node 9304225: Katz Centrality = 0.18677807691018533
+Node 9308246: Katz Centrality = 0.15189540051518524
+Node 9408384: Katz Centrality = 0.14063278230004775
+Node 9209232: Katz Centrality = 0.12812221518949643
+
+
+
+
+DiGraph with 21739 nodes and 201300 edges
+Average Node Degree: 18.51971111826671
+Density: 0.00042597550644646955
+Clustering Coefficient: 0.1375769637439609
+Assortativity Coefficient: 0.006871858304084744
+Number of Strongly Connected Components in subgraph: 20553
+Node 9303255: PageRank Centrality = 0.004426306646937934
+Node 9310316: PageRank Centrality = 0.003127271349973711
+Node 9209205: PageRank Centrality = 0.002996962726798096
+Node 9206203: PageRank Centrality = 0.0027857047755219864
+Node 9208254: PageRank Centrality = 0.002752224583941458
+Node 9207214: Katz Centrality = 0.2101586320028376
+Node 9304225: Katz Centrality = 0.17377866211494303
+Node 9408384: Katz Centrality = 0.15150354465149896
+Node 9308246: Katz Centrality = 0.13966323001535433
+Node 9304307: Katz Centrality = 0.13086706272779555
+
+
+
+
+DiGraph with 25775 nodes and 263468 edges
+Average Node Degree: 20.44368574199806
+Density: 0.000396595129626718
+Clustering Coefficient: 0.14020234381276256
+Assortativity Coefficient: 0.002122857025560669
+Number of Strongly Connected Components in subgraph: 23679
+Node 9303255: PageRank Centrality = 0.0041228156726556
+Node 9209205: PageRank Centrality = 0.0029276646970879247
+Node 9310316: PageRank Centrality = 0.0028966130726809244
+Node 9206203: PageRank Centrality = 0.0025622068870116413
+Node 9208254: PageRank Centrality = 0.0025306519629426437
+Node 9207214: Katz Centrality = 0.20639669547835518
+Node 9304225: Katz Centrality = 0.17006956503373696
+Node 9408384: Katz Centrality = 0.1486800381219048
+Node 9308246: Katz Centrality = 0.13573702059715023
+Node 9304307: Katz Centrality = 0.13249658921024446
+
+
+
+
+DiGraph with 29878 nodes and 334051 edges
+Average Node Degree: 22.361001405716582
+Density: 0.00037421764912334875
+Clustering Coefficient: 0.14183193718651657
+Assortativity Coefficient: 0.0017259095183298015
+Number of Strongly Connected Components in subgraph: 24731
+Node 9303255: PageRank Centrality = 0.0038722146247676757
+Node 9209205: PageRank Centrality = 0.0028360188326305626
+Node 9310316: PageRank Centrality = 0.0026934751522577237
+Node 9206203: PageRank Centrality = 0.0024043594074164313
+Node 9208254: PageRank Centrality = 0.0023092681950392106
+Node 9207214: Katz Centrality = 0.20029091668509214
+Node 9304225: Katz Centrality = 0.16559912937119997
+Node 9408384: Katz Centrality = 0.16046592170334775
+Node 9304307: Katz Centrality = 0.136436369160263
+Node 9308246: Katz Centrality = 0.12980350382057868
+
+
+
+
+DiGraph with 30558 nodes and 347268 edges
+Average Node Degree: 22.728450814843903
+Density: 0.0003719025233963397
+Clustering Coefficient: 0.14184790890960713
+Assortativity Coefficient: -0.003314074199270972
+Number of Strongly Connected Components in subgraph: 25152
+Node 9303255: PageRank Centrality = 0.0038449604508585043
+Node 9209205: PageRank Centrality = 0.0028180794364251033
+Node 9310316: PageRank Centrality = 0.0026568974007092085
+Node 9206203: PageRank Centrality = 0.0023802244350290985
+Node 9208254: PageRank Centrality = 0.0022827333782866515
+Node 9207214: Katz Centrality = 0.19874631212288774
+Node 9304225: Katz Centrality = 0.16430695231814563
+Node 9408384: Katz Centrality = 0.1596324429299458
+Node 9304307: Katz Centrality = 0.13637989270784479
+Node 9308246: Katz Centrality = 0.1286929242525741
+
+
+
+

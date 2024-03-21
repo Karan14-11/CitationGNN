@@ -1,0 +1,49 @@
+Done
+(92, 41)
+2237
+Threshold -0.5
+Accuracy: 90.71%
+(92, 41)
+2232
+Threshold -0.45
+Accuracy: 90.51%
+(92, 41)
+2226
+Threshold -0.4
+Accuracy: 90.27%
+(92, 41)
+2223
+Threshold -0.35000000000000003
+Accuracy: 90.15%
+(92, 41)
+2213
+Threshold -0.30000000000000004
+Accuracy: 89.74%
+(92, 41)
+2410
+Threshold -0.25
+Accuracy: 97.73%
+(92, 41)
+2406
+Threshold -0.2
+Accuracy: 97.57%
+(92, 41)
+2395
+Threshold -0.15000000000000002
+Accuracy: 97.12%
+(92, 41)
+2382
+Threshold -0.1
+Accuracy: 96.59%
+(92, 41)
+2369
+Threshold -0.05
+Accuracy: 96.07%
+(92, 41)
+2348
+Threshold 0.0
+Accuracy: 95.21%
+(92, 41)
+2323
+Threshold 0.05
+Accuracy: 94.20%

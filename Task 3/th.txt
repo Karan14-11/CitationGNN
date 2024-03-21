@@ -1,0 +1,63 @@
+Predicted Edges for FutureGraph: 627763
+threshold:: 0.0
+0.13715367105101767
+Predicted Edges for FutureGraph: 491716
+threshold:: 0.05
+0.12934295406291438
+Predicted Edges for FutureGraph: 337201
+threshold:: 0.1
+0.12722382199341045
+Predicted Edges for FutureGraph: 248003
+threshold:: 0.15000000000000002
+30.17907209377686
+Predicted Edges for FutureGraph: 164195
+threshold:: 0.2
+54.3245542814561
+Predicted Edges for FutureGraph: 108355
+threshold:: 0.25
+70.8017279407809
+Predicted Edges for FutureGraph: 59715
+threshold:: 0.30000000000000004
+83.63667095592244
+Predicted Edges for FutureGraph: 29746
+threshold:: 0.35000000000000003
+91.51193185659238
+Predicted Edges for FutureGraph: 13016
+threshold:: 0.4
+0.13060848186846957
+Predicted Edges for FutureGraph: 5281
+threshold:: 0.45
+0.1893580761219466
+Predicted Edges for FutureGraph: 1728
+threshold:: 0.5
+0.11574074074074073
+Predicted Edges for FutureGraph: 613
+threshold:: 0.55
+0.48939641109298526
+Predicted Edges for FutureGraph: 205
+threshold:: 0.6000000000000001
+0
+Predicted Edges for FutureGraph: 48
+threshold:: 0.65
+0
+Predicted Edges for FutureGraph: 6
+threshold:: 0.7000000000000001
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 0.75
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 0.8
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 0.8500000000000001
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 0.9
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 0.9500000000000001
+0
+Predicted Edges for FutureGraph: 0
+threshold:: 1.0
+0
